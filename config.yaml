@@ -1,0 +1,12 @@
+baseURL : "https://blog.swetankpoddar.me/"
+languageCode : "en-us"
+title : "Swetank's Blog"
+pygmentsstyle: 'monokai'
+theme: novela
+paginate: 6
+
+enableInlineShortcodes: true
+enableEmoji: true
+
+taxonomies:
+    author: authors
