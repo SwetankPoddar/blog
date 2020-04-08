@@ -41,4 +41,5 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/hello.md
 - content/post/minecraft-server-using-docker.md
