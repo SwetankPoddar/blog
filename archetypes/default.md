@@ -1,12 +1,11 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-hero: /images/hero-3.jpg
+hero: 
 excerpt: "A default excerpt"
 timeToRead: 5
-authors:
-  - Dennis Brotzky
+authors: ["Swetank Poddar"]
 draft: true
 ---
 
-Some default content
+Your content here!

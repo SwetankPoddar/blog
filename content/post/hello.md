@@ -1,7 +1,7 @@
 +++
-authors = []
+authors = ["Yash Chakrabarti"]
 date = 2020-04-08T18:30:00Z
-draft = true
+draft = false
 excerpt = "Yash chutiya"
 hero = ""
 timeToRead = 0

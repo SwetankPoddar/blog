@@ -9,4 +9,4 @@ title = "Minecraft server using Docker! "
 +++
 Hello there! 
 
-Today we'll be learning how to use Docker to create Minecraft servers in one go! :
+Today we'll be learning how to use Docker to create Minecraft servers in one go! :smile:
