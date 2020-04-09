@@ -3,5 +3,5 @@ hero:
   heading: Welcome to my blog, let's learn something new together!
   maxWidthPX: 652
 seo:
-  image: /images/favicon.svg
+  image: /images/og_image.png
 ---
