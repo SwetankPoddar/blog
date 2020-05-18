@@ -1,9 +1,10 @@
 +++
 authors = ["Swetank Poddar"]
 date = 2020-04-07T18:30:00Z
+draft = true
 excerpt = ""
 hero = "/images/favicon.svg"
-timeToRead = 0
+timeToRead = 2
 title = "Minecraft server using Docker! "
 
 +++
