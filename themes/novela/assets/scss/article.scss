@@ -48,7 +48,6 @@
     position: relative;
     z-index: 10;
     margin:100px auto 120px;
-    padding-left: 68px;
     max-width: 749px;
   
     @media screen and (max-width: $desktop){
@@ -65,7 +64,6 @@
 
     @media screen and (max-width: $phablet){
         margin: 170px auto 180px;
-        padding: 0 40px;
     }
   
     @media screen and (max-height: 700px) {
